@@ -1,0 +1,18 @@
+{
+   "displayName" : "Ultrawide",
+   "version" : "1.0",
+   "buildNumber" : 4,
+   "description" : "",
+   "author" : "",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/UI/FrontEnd/HomeScreen.uasset",
+      "/Game/UI/FrontEnd/Marketplace/MarketWeaponScreen.uasset",
+      "/Game/UI/FrontEnd/Mechlab/MechlabWidget.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}
