@@ -1,7 +1,7 @@
 {
    "displayName" : "Ultrawide",
    "version" : "1.0",
-   "buildNumber" : 5,
+   "buildNumber" : 8,
    "description" : "",
    "author" : "",
    "authorURL" : "",
@@ -9,9 +9,16 @@
    "gameVersion" : "1.1.0",
    "manifest" : [
       "/Game/UI/FrontEnd/HomeScreen.uasset",
+      "/Game/UI/FrontEnd/Barracks/BarracksHomeWidget.uasset",
+      "/Game/UI/FrontEnd/Contracts/ContractsAvailableList.uasset",
+      "/Game/UI/FrontEnd/Contracts/ContractsDetails.uasset",
+      "/Game/UI/FrontEnd/Contracts/ContractsNegotiationPayout.uasset",
       "/Game/UI/FrontEnd/Marketplace/MarketBattleMechScreen.uasset",
       "/Game/UI/FrontEnd/Marketplace/MarketWeaponScreen.uasset",
-      "/Game/UI/FrontEnd/Mechlab/MechlabWidget.uasset"
+      "/Game/UI/FrontEnd/Mechlab/MechlabWidget.uasset",
+      "/Game/UI/FrontEnd/PostMission/PostDropPilotScorboard.uasset",
+      "/Game/UI/FrontEnd/PostMission/PostDropScreen.uasset",
+      "/Game/UI/FrontEnd/Starmap/StarSystemInfoPanel.uasset"
    ],
    "steamPublishedFileId" : 0,
    "steamLastSubmittedBuildNumber" : 0,
