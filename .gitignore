@@ -99,3 +99,16 @@ Wwise*
 Protocol/* 
 MW5Mercs*
 Releases/*
+
+Plugins/Bink/*
+Plugins/Chroma/*
+Plugins/ChromaSDKPlugin/*
+Plugins/DialoguePlugin/*
+Plugins/LowEntryJson/*
+Plugins/Igor/*
+Plugins/ImpostorBaker-master/*
+Plugins/MWShaders/*
+Plugins/OceanPlugin/*
+Plugins/OnlineSubsystemEpic/*
+Plugins/UE4Duino/*
+Plugins/VictoryPlugin/*

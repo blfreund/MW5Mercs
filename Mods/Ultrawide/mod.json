@@ -1,7 +1,7 @@
 {
    "displayName" : "Ultrawide",
    "version" : "1.0",
-   "buildNumber" : 4,
+   "buildNumber" : 5,
    "description" : "",
    "author" : "",
    "authorURL" : "",
@@ -9,6 +9,7 @@
    "gameVersion" : "1.1.0",
    "manifest" : [
       "/Game/UI/FrontEnd/HomeScreen.uasset",
+      "/Game/UI/FrontEnd/Marketplace/MarketBattleMechScreen.uasset",
       "/Game/UI/FrontEnd/Marketplace/MarketWeaponScreen.uasset",
       "/Game/UI/FrontEnd/Mechlab/MechlabWidget.uasset"
    ],
