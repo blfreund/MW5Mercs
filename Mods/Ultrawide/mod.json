@@ -1,7 +1,7 @@
 {
    "displayName" : "Ultrawide",
    "version" : "1.0",
-   "buildNumber" : 8,
+   "buildNumber" : 9,
    "description" : "",
    "author" : "",
    "authorURL" : "",
@@ -18,7 +18,8 @@
       "/Game/UI/FrontEnd/Mechlab/MechlabWidget.uasset",
       "/Game/UI/FrontEnd/PostMission/PostDropPilotScorboard.uasset",
       "/Game/UI/FrontEnd/PostMission/PostDropScreen.uasset",
-      "/Game/UI/FrontEnd/Starmap/StarSystemInfoPanel.uasset"
+      "/Game/UI/FrontEnd/Starmap/StarSystemInfoPanel.uasset",
+      "/Game/UI/SaveLoad/SaveScreen/SaveGameScreen.uasset"
    ],
    "steamPublishedFileId" : 0,
    "steamLastSubmittedBuildNumber" : 0,
