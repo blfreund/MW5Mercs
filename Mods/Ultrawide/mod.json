@@ -1,7 +1,7 @@
 {
    "displayName" : "Ultrawide",
    "version" : "1.0",
-   "buildNumber" : 17,
+   "buildNumber" : 18,
    "description" : "",
    "author" : "",
    "authorURL" : "",
@@ -20,6 +20,7 @@
       "/Game/UI/FrontEnd/Deployment/DropPreperationWidget.uasset",
       "/Game/UI/FrontEnd/Marketplace/MarketBattleMechScreen.uasset",
       "/Game/UI/FrontEnd/Marketplace/MarketWeaponScreen.uasset",
+      "/Game/UI/FrontEnd/Mechlab/EquipQuirksWidget.uasset",
       "/Game/UI/FrontEnd/Mechlab/MechlabWidget.uasset",
       "/Game/UI/FrontEnd/MechManagement/MechManagementScreen.uasset",
       "/Game/UI/FrontEnd/PostMission/PostDropPilotStatusWidget.uasset",
