@@ -1,12 +1,12 @@
 {
    "displayName" : "Ultrawide",
    "version" : "1.0",
-   "buildNumber" : 16,
+   "buildNumber" : 17,
    "description" : "",
    "author" : "",
    "authorURL" : "",
    "defaultLoadOrder" : 0,
-   "gameVersion" : "1.1.0",
+   "gameVersion" : "1.12.62",
    "manifest" : [
       "/Game/UI/FrontEnd/ContractsScreen.uasset",
       "/Game/UI/FrontEnd/HomeScreen.uasset",
