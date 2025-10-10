@@ -1,7 +1,7 @@
 {
    "displayName" : "Ultrawide UI Fix 32x9",
    "version" : "1.0",
-   "buildNumber" : 21,
+   "buildNumber" : 22,
    "description" : "This fixes UI for Ultrawide 32x9 (5120x1440).  It may or may not work with other aspect ratios and/or resolutions.  It is quick fix by adding a 750 pixel buffer on each side of UI screens.  This does not touch the Mech HUD, use r00k's mod to fix that.",
    "author" : "blfreund",
    "authorURL" : "",
@@ -29,6 +29,6 @@
       "/Game/UI/SaveLoad/SaveScreen/SaveGameScreen.uasset"
    ],
    "steamPublishedFileId" : 3583760907,
-   "steamLastSubmittedBuildNumber" : 20,
+   "steamLastSubmittedBuildNumber" : 21,
    "steamModVisibility" : "Public"
 }
